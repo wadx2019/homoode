@@ -2,7 +2,7 @@
 
 Code release for **Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation (NeurIPS 2023)**.
 
-[[paper]](#) [[project page]](#)
+[[paper]](https://arxiv.org/pdf/2310.09583) [[project page]](https://dingsht.tech/homoode-webpage/)
 
 ![](./img/HomoODE_pipeline.jpg)
 
